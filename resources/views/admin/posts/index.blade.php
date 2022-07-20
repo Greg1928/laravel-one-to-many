@@ -8,7 +8,7 @@
         </div>
         <div class="card-body">
             <div class="mb-3">
-                <a href="{{route('admin.posts.create')}}" class="btn btn-success">Crea un post</a>
+                <a href="{{route('admin.posts.create')}}" class="btn btn-success">Create a Post</a>
             </div>
             <table class="table table-striped">
                 <thead>
